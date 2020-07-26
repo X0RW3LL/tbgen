@@ -20,21 +20,21 @@ $ sh tbgen.sh your_image.jpg</p>
 </br>
 <h2>Inspiration</h2>
 <p> I was tinkering around Kali's background when I came across one that's timed based on the time of day. It's lighter and brighter during daytime, and gets darker towards night time. I just <strong>had</strong> to figure out how it worked.</br>
-I went through gnome-tweaks ($ sudo apt install gnome-tweaks), got the location of said background (/usr/share/backgrounds/gnome/adwaita-timed.xml) and made sense of how it worked.</br>
-I thought it would be cool to create custom ones at will. Hence the idea for this script came to being.</p>
+I went through gnome-tweaks ($ sudo apt install gnome-tweaks), got the location of said background </br>(/usr/share/backgrounds/gnome/adwaita-timed.xml) and made sense of how it worked.</br>
+I thought it would be cool to create custom ones at will. Henceforth how the idea for this script came to be.</p>
 </br>
 <h2>What does the script actually do?</h2>
-<p>1. Checks if you have ImageMagick installed, and installs it if it's not on your system—we need this package to modulate the brightness of the image</br>
+<p>1. Checks if you have ImageMagick installed, and installs it if it's not on your system—we need this package to modulate the brightness of the image. Kindly note that you may be required to provide your sudo password for ImageMagick to be installed</br>
 2. Creates a directory called timed_themes (and checks if it already exists on later runs)</br>
 3. Creates 2 images with 66% and 33% brightness, respectively, titled day-image and night-image, respectively</br>
-4. Copies the image you passed in as an argument to the timed_themes directory
-5. Creates an xml file (based on adwaita-timed.xml , many thanks for the original author(s)), and uses the newly generated images in place
+4. Copies the image you passed in as an argument to the timed_themes directory</br>
+5. Creates an xml file (based on adwaita-timed.xml , many thanks for the original author(s)), and uses the newly generated images in place</br>
 6. Sets your <strong>desktop</strong> background image to the newly generated timed background. Kindly note that it will only change your desktop background image, and not the lockscreen image. Refer to <strong>Limitations</strong> for more</p>
 </br>
 <h2>Limitations</h2>
 <p>1. I'm not, by any means, skilled at bash scripting; the timed image will preserve its extension (aka if you have image.png, the generated image will be titled image.png.xml). It still runs without a hitch, but I know it does bug me when it comes to aesthetics</br>
 2. Some images might not be perfect in terms of brightness modulation. Unfortunately, I don't have an immediate workaround to analyze the image beforehand</br>
-3. This script will only change the desktop background, not the lockscreen image.
+3. This script will only change the desktop background, not the lockscreen image.</br>
 4. This has only been tested on GNOME. I do not know whether or not this works on other display managers like XFCE, MATE, KDE, etc.</p>
 </br>
 <h2>Troubleshooting</h2>
