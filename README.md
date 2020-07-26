@@ -1,8 +1,8 @@
 # Timed Background Generator
 
 <p>This bash script will create timed backgrounds for GNOME display managers. Based on Kali's timed theme—more on that later.</br>
-Ideally, you're gonna wanna choose a well-lit background (think daytime lighting conditions).</p></br>
-Please feel free to fork this and improve on it as you see fit.
+Ideally, you're gonna wanna choose a well-lit background (think daytime lighting conditions).</br>
+Please feel free to fork this and improve on it as you see fit.</p>
 </br>
 <h2>Instructions</h2>
 <p>1. clone this repo locally</br>
