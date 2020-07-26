@@ -60,7 +60,7 @@ Daniel Ruiz: <a href="https://twitter.com/dani_ruiz24">&#64;dani_ruiz24</a>, for
 The image I'm using: <a href="https://www.pixel4k.com/small-lake-red-sunset-111735.html">Small Lake Red Sunset</a></br>
 <h2>Preview Images</h2>
 <div>
-![Morning](previews/lake.jpg?raw=true)
-![Day](previews/day-lake.jpg?raw=true)
-![Night](previews/night-lake.jpg?raw=true)
+![Morning](/previews/lake.jpg?raw=true)
+![Day](/previews/day-lake.jpg?raw=true)
+![Night](/previews/night-lake.jpg?raw=true)
 </div>
