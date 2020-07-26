@@ -16,7 +16,7 @@ $ cp /path/to/image .</br></br>
 $ ./tbgen.sh your_image.jpg</br>
 <strong>OR</strong></br>
 $ sh tbgen.sh your_image.jpg</p>
-</br></br>
+</br>
 <h2>Inspiration</h2>
 <p> I was tinkering around Kali's background when I came across one that's timed based on the time of day. It's lighter and brighter during daytime, and gets darker towards night time. I just <strong>had</strong> to figure out how it worked.</br>
 I went through gnome-tweaks ($ sudo apt install gnome-tweaks), got the location of said background (/usr/share/backgrounds/gnome/adwaita-timed.xml) and made sense of how it worked.</br>
@@ -58,6 +58,8 @@ The Kali Linux team: <a href="https://twitter.com/kalilinux">&#64;kalilinux</a><
 Stök Fredrik: <a href="https://twitter.com/stokfredrik">&#64;stokfredrik</a>, for inspiration with his Medium post: <a href="https://medium.com/@stokochtrubbel/how-to-make-kali-bearable-to-look-at-5593771fafc5">HOW TO MAKE KALI BEARABLE TO LOOK AT..</a></br>
 Daniel Ruiz: <a href="https://twitter.com/dani_ruiz24">&#64;dani_ruiz24</a>, for his continuous improvements for Kali's themes. Check out his website: <a href="https://drasite.com/">DяA | Daniel Ruiz de Alegría</a></br>
 The image I'm using: <a href="https://www.pixel4k.com/small-lake-red-sunset-111735.html">Small Lake Red Sunset</a></br>
+Bash snippet to check for installed packages: https://stackoverflow.com/a/10439058</br>
+</br>
 <h2>Preview Images</h2>
 <p float="center">
 <img src="./previews/lake.jpg" raw=true alt="Morning" width="33%" title="Morning"/>
