@@ -56,7 +56,7 @@ $ exit</br>
 <p>The entire Linux and Open Source community</br>
 The Kali Linux team: <a href="https://twitter.com/kalilinux">&#64;kalilinux</a></br>
 Stök Fredrik: <a href="https://twitter.com/stokfredrik">&#64;stokfredrik</a>, for inspiration with his Medium post: <a href="https://medium.com/@stokochtrubbel/how-to-make-kali-bearable-to-look-at-5593771fafc5">HOW TO MAKE KALI BEARABLE TO LOOK AT..</a></br>
-Daniel Ruiz: <a href="https://twitter.com/dani_ruiz24">&#64;dani_ruiz24</a>, for his continuous improvements for Kali's themes. Check out his website: <a href="https://drasite.com/">DяA | Daniel Ruiz de Alegría</a>
+Daniel Ruiz: <a href="https://twitter.com/dani_ruiz24">&#64;dani_ruiz24</a>, for his continuous improvements for Kali's themes. Check out his website: <a href="https://drasite.com/">DяA | Daniel Ruiz de Alegría</a></br>
 The image I'm using: <a href="https://www.pixel4k.com/small-lake-red-sunset-111735.html">Small Lake Red Sunset</a></br>
 <h2>Preview Images</h2>
 <p float="center">
