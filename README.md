@@ -51,7 +51,8 @@ For example, if your your_image.jpg is in the repo, and your username is userx, 
 gsettings set org.gnome.desktop.background picture-uri file:///home/userx/tbgen/your_image.jpg</br>
 4. Exit out of the tty2 session, and proceed to login to your Xsession</br>
 $ exit</br>
-<strong>Note: </strong>I did run into this issue at first because I handled the path to the image incorrectly. It works fine now</br></p>
+<strong>Note: </strong>I did run into this issue at first because I handled the path to the image incorrectly. It works fine now</p>
+</br>
 <h2>Credits</h2>
 <p>The entire Linux and Open Source community</br>
 The Kali Linux team: <a href="https://twitter.com/kalilinux">&#64;kalilinux</a></br>
