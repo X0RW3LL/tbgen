@@ -59,7 +59,7 @@ Stök Fredrik: <a href="https://twitter.com/stokfredrik">&#64;stokfredrik</a>, f
 Daniel Ruiz: <a href="https://twitter.com/dani_ruiz24">&#64;dani_ruiz24</a>, for his continuous improvements for Kali's themes. Check out his website: <a href="https://drasite.com/">DяA | Daniel Ruiz de Alegría</a>
 The image I'm using: <a href="https://www.pixel4k.com/small-lake-red-sunset-111735.html">Small Lake Red Sunset</a></br>
 <h2>Preview Images</h2>
-<div>
+<div float="left">
 <img src="./previews/lake.jpg" raw=true alt="Morning">
 <img src="./previews/day-lake.jpg" raw=true alt="Day">
 <img src="./previews/night-lake.jpg" raw=true alt="Night">
