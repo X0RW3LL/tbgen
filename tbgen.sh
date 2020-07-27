@@ -34,7 +34,7 @@ echo "<background>
 <!-- We start with sunrise at 7 AM. It will remain up for 1 hour. -->
 <static>
 <duration>3600.0</duration>
-<file></file>
+<file>$cwd/timed_themes/$1</file>
 </static>
 
 <!-- Sunrise starts to transition to day at 8 AM. The transition lasts for 5 hours, ending at 1 PM. -->
