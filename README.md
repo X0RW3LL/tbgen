@@ -24,7 +24,7 @@ I went through gnome-tweaks ($ sudo apt install gnome-tweaks), got the location 
 I thought it would be cool to create custom ones at will. Henceforth how the idea for this script came to be.</p>
 </br>
 <h2>What does the script actually do?</h2>
-<p>1. Checks if you have ImageMagick installed, and installs it if it's not on your system—we need this package to modulate the brightness of the image. Kindly note that you may be required to provide your sudo password for ImageMagick to be installed</br>
+<p>1. Checks if you have ImageMagick installed, and gives you distro-specific instructions on how to install it if it's not already installed</br>
 2. Creates a directory called timed_themes (and checks if it already exists on later runs)</br>
 3. Creates 2 images with 66% and 33% brightness, respectively, titled day-image and night-image, respectively</br>
 4. Copies the image you passed in as an argument to the timed_themes directory</br>
